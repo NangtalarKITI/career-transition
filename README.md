@@ -17,7 +17,7 @@ Therefore, my goal is to build strong funamentals in networking before progressi
   This role has strengthened my troubleshooting approach and reinforced my interest in networking
   and infrastructure. 
 
-  ## What I'm Currently Learning#
+  ## What I'm Currently Learning
 - Cisco networking fundamentals (Packet Tracer Labs)
 - IP addressing, subnetting, VLANs, routing, DHCP, DNS and NAT
 - Python for basic network automation
